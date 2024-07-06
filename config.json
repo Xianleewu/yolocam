@@ -1,0 +1,29 @@
+{
+    "description": "",
+    "models": [
+        {
+            "name": "coco-80",
+            "desc": "coco-80",
+            "date": "2024-06-23",
+            "model_file": "coco.bin",
+            "model_md5": "a76d8798776787",
+            "lable_file": "",
+            "labe_md5": ""
+        },
+        {
+            "name": "pla",
+            "desc": "coco-80",
+            "date": "2024-06-23",
+            "model_file": "coco.bin",
+            "model_md5": "a76d8798776787",
+            "lable_file": "",
+            "labe_md5": ""
+        }
+    ],
+    "registry": [
+        "http://hub-mirror.c.163.com",
+        "https://registry.docker-cn.com",
+        "https://docker.mirrors.tuna.tsinghua.edu.cn"
+    ]
+}
+
