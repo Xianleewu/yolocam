@@ -29,3 +29,18 @@ v4l2 thread----+--->RGA-------> NPU
 
 
 
+# TODO
+
+- [x] Screen preview & detect results overlay
+
+- [x] Serialport output
+
+- [ ] Lan data publiser
+
+- [ ] Online update/change AI model
+
+- [ ] Web server for device config
+
+- [ ] RTSP stream out
+
+- [ ] UVC stream out
